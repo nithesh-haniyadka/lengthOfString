@@ -43,7 +43,6 @@ namespace unitTestcases
             bool b3 = string.IsNullOrEmpty(str);
             Assert.True(b3);
 
-
         }
 
 

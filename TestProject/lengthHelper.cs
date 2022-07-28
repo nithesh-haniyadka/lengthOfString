@@ -20,8 +20,6 @@ namespace findLengthOftheString
 			return l;
 
 		}
-
-		// Main Method
 		public static void Main()
 		{
 			string str;
